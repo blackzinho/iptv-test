@@ -1,3 +1,35 @@
-#EXTM3U
-#EXTINF:-1,BR: Anime
-https://d1twos5r66nhww.cloudfront.net/RCServer12/ondemand/OSTSPCDSCPTT01EP01.mp4?attachment=true
+
+#EXTM3U 
+#EXTINF:-1,BR: SBT
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/sbt.m3u8?wmsAuthSign=
+#EXTINF:-1,BR: PLENITUDE 
+https://cdn.jmvstream.com/w/LVW-8594/ngrp:LVW8594_Jjx9cEFAPt_all/chunklist_b3747791.m3u8
+#EXTINF:-1,BR: Discovery channel 
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/discovery.m3u8?wmsAuthSign=
+#EXTINF:-1,BR: Globo 
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/bobosp.m3u8?wmsAuthSign=
+#EXTINF:-1,BR: Combate 
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/combate.m3u8?wmsAuthSign=
+#EXTINF:-1,BR: Discovery Turbo
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/discoveryturbo.m3u8?wmsAuthSign=
+#EXTINF:-1,BR: Telecine Pipoca
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/telecinepipoca.m3u8?wmsAuthSign=
+#EXTINF:-1,BR: Telecine fundo
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/telecinefun.m3u8?wmsAuthSign=
+#EXTINF:-1,BR: Gloob
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/gloob.m3u8?wmsAuthSign=
+#EXTINF:-1,BR: Megapixel
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/megapix.m3u8?wmsAuthSign=
+#EXTINF:-1,BR: Fox
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/fox.m3u8?wmsAuthSign=
+#EXTINF:-1,BR: Cartoon
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/cartoon.m3u8?wmsAuthSign=
+#EXTINF:-1,BR: Comedy central
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/comedycentral.m3u8?wmsAuthSign=
+#EXTINF:-1,BR: Warner
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/warner.m3u8?wmsAuthSign=
+#EXTINF:-1,BR: Telecine Premium 
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/telecinepremium.m3u8?wmsAuthSign=
+#EXTINF:-1,BR: A Fazenda 
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/afazenda.m3u8?wmsAuthSign=
+
