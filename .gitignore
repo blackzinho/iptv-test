@@ -1,36 +1,36 @@
 
 #EXTM3U 
-#EXTINF:-1,BR: SBT
+#EXTINF:-1,BR: SBT HD
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/sbt.m3u8?wmsAuthSign=
-#EXTINF:-1,BR: PLENITUDE 
+#EXTINF:-1,BR: PLENITUDE HD
 https://cdn.jmvstream.com/w/LVW-8594/ngrp:LVW8594_Jjx9cEFAPt_all/chunklist_b3747791.m3u8
-#EXTINF:-1,BR: Discovery channel 
+#EXTINF:-1,BR: Discovery channel HD
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/discovery.m3u8?wmsAuthSign=
-#EXTINF:-1,BR: Globo 
+#EXTINF:-1,BR: Globo HD
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/bobosp.m3u8?wmsAuthSign=
-#EXTINF:-1,BR: Combate 
+#EXTINF:-1,BR: Combate HD
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/combate.m3u8?wmsAuthSign=
-#EXTINF:-1,BR: Discovery Turbo
+#EXTINF:-1,BR: Discovery Turbo HD
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/discoveryturbo.m3u8?wmsAuthSign=
-#EXTINF:-1,BR: Telecine Pipoca
+#EXTINF:-1,BR: Telecine Pipoca HD
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/telecinepipoca.m3u8?wmsAuthSign=
-#EXTINF:-1,BR: Telecine fundo
+#EXTINF:-1,BR: Telecine fun HD
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/telecinefun.m3u8?wmsAuthSign=
-#EXTINF:-1,BR: Gloob
+#EXTINF:-1,BR: Gloob HD
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/gloob.m3u8?wmsAuthSign=
-#EXTINF:-1,BR: Megapixel
+#EXTINF:-1,BR: Megapixel HD
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/megapix.m3u8?wmsAuthSign=
-#EXTINF:-1,BR: Fox
+#EXTINF:-1,BR: Fox HD
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/fox.m3u8?wmsAuthSign=
-#EXTINF:-1,BR: Cartoon
+#EXTINF:-1,BR: Cartoon HD
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/cartoon.m3u8?wmsAuthSign=
-#EXTINF:-1,BR: Comedy central
+#EXTINF:-1,BR: Comedy central HD
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/comedycentral.m3u8?wmsAuthSign=
-#EXTINF:-1,BR: Warner
+#EXTINF:-1,BR: WarnerHD
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/warner.m3u8?wmsAuthSign=
 #EXTINF:-1,BR: Telecine Premium 
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/telecinepremium.m3u8?wmsAuthSign=
-#EXTINF:-1,BR: A Fazenda 
+#EXTINF:-1,BR: A Fazenda HD
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/afazenda.m3u8?wmsAuthSign=
-#EXTINF:-1,BR: Nick 
+#EXTINF:-1,BR: Nick HD
 https://d2lp5sf6fdaodz.cloudfront.net/hls1/nick.m3u8?wmsAuthSign=
